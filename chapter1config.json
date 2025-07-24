@@ -1,13 +1,10 @@
 {
-  "Chapter1" : {
-    "IA": {
-      "WalkSpeed": 16,
-      "JumpPower": 50
-    },
-
-    "General": {
-      "GroupId": 1234567,
-      "EnableVIP": true
-    },
+  "IA": {
+    "WalkSpeed": 16,
+    "JumpPower": 50
   },
+  "General": {
+    "GroupId": 1234567,
+    "EnableVIP": true
+  }
 }
