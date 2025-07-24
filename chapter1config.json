@@ -2,13 +2,15 @@
   "General": {
     "GroupInfo" : {
       "ID": 1234567,
-      "Investor": 25,
-      "Tester": 27,
-      "Contributor": 50,
-      "Moderator": 75,
-      "Administrator": 100,
-      "Developer II": 150,
-      "Developer": 200
+      "Roles" : {
+        "Investor": 25,
+        "Tester": 27,
+        "Contributor": 50,
+        "Moderator": 75,
+        "Administrator": 100,
+        "Developer II": 150,
+        "Developer": 200
+      }  
     },
     
     "Badges" : {
