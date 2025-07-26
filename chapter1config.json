@@ -1,5 +1,7 @@
 {
   "General": {
+    "Maintenance": false,
+    
     "GroupInfo" : {
       "ID": 35616312,
       "Roles" : {
